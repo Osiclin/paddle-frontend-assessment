@@ -1,0 +1,9 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    
+    min-height: 508px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 1rem;
+}
